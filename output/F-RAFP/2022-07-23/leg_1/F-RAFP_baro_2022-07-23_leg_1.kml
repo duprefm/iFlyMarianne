@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2"><Folder ><Folder ><name >F-RAFP track</name>
+<Placemark ><name >F-RAFP</name>
+<Style ><LineStyle ><color >ff1c1ae3</color>
+<width >4</width>
+</LineStyle>
+<IconStyle ><Icon ><href >http://maps.google.com/mapfiles/kml/shapes/airports.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<gx:Track ><altitudeMode >absolute</altitudeMode>
+<extrude >1</extrude>
+<when >2022-07-23T12:51:43.330Z</when>
+<when >2022-07-23T12:51:43.330Z</when>
+<when >2022-07-23T12:51:44.040Z</when>
+<when >2022-07-23T12:51:46.900Z</when>
+<when >2022-07-23T12:52:19.930Z</when>
+<when >2022-07-23T12:52:38.000Z</when>
+<when >2022-07-23T12:52:41.980Z</when>
+<when >2022-07-23T12:57:09.620Z</when>
+<when >2022-07-23T12:57:26.050Z</when>
+<when >2022-07-23T12:58:41.740Z</when>
+<when >2022-07-23T13:02:18.650Z</when>
+<when >2022-07-23T13:02:21.560Z</when>
+<when >2022-07-23T13:02:37.770Z</when>
+<when >2022-07-23T13:02:46.930Z</when>
+<when >2022-07-23T13:02:55.040Z</when>
+<when >2022-07-23T13:02:56.010Z</when>
+<when >2022-07-23T13:02:56.010Z</when>
+<gx:coord >8.656013 41.770113 328</gx:coord>
+<gx:coord >8.656013 41.770113 328</gx:coord>
+<gx:coord >8.654799 41.769507 328</gx:coord>
+<gx:coord >8.651858 41.767502 343</gx:coord>
+<gx:coord >8.650859 41.733124 305</gx:coord>
+<gx:coord >8.663678 41.713598 274</gx:coord>
+<gx:coord >8.666488 41.709315 274</gx:coord>
+<gx:coord >8.910911 41.483002 305</gx:coord>
+<gx:coord >8.932779 41.47567 328</gx:coord>
+<gx:coord >9.035943 41.447342 312</gx:coord>
+<gx:coord >9.168602 41.551177 297</gx:coord>
+<gx:coord >9.166468 41.549652 297</gx:coord>
+<gx:coord >9.156019 41.542658 251</gx:coord>
+<gx:coord >9.150653 41.538981 221</gx:coord>
+<gx:coord >9.146118 41.535862 198</gx:coord>
+<gx:coord >9.145494 41.535461 183</gx:coord>
+<gx:coord >9.145494 41.535461 183</gx:coord>
+</gx:Track>
+</Placemark>
+</Folder>
+</Folder>
+</kml>

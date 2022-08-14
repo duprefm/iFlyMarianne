@@ -70,6 +70,3 @@ root/
          └───root/output//date/ -> dossier contenant le kml, csv, jpg, html des vols de ce jour, par leg. Un exemple est donné pour F-GBOL et un pour F-HVBL.
     └───all_flights_data.csv -> simple pd.concat de chaque fichier "xxx_flight_data_all.csv"
 ```
-
-## LICENSE
-License MIT. Voir [LICENSE.md](https://github.com/GeneralDeGaulle/iFlyMarianne/blob/master/LICENSE.md)

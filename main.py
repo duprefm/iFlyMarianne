@@ -31,7 +31,7 @@ import post_flight_data_consolidation
 path = os.path.dirname(os.path.abspath(__file__))
 os.chdir(path)
 
-path_avions = os.path.join(path, r"input/avions.csv")
+path_avions = os.path.join(path, "input", "avions.csv")
 
 
 #%% load generic data
@@ -56,12 +56,12 @@ for aircraft_row in df_avion.itertuples():
 
     #load previous data
     path_flight_data = os.path.join(path, "output", registration_ac)
-    path_flight_data_csv = os.path.join(path_flight_data, f"{registration_ac}_flight_data_all.csv")
+    path_flight_data_csv = os.path.join(path, path_flight_data, registration_ac + "_flight_data_all.csv")
 
     # pour créer le dossier si l'avion n'existe pas encore. pas le plus élégant mais efficace
     if not os.path.exists(path_flight_data):
         os.makedirs(path_flight_data, exist_ok=True)
-        df_template = pd.read_csv(os.path.join(path, r"input/template_flight_data_all.csv"))
+        df_template = pd.read_csv(os.path.join(path, "input", "template_flight_data_all.csv"))
         df_template.to_csv(path_flight_data_csv, index=False, encoding="utf-8-sig")
 
     df_ac_data = pd.read_csv(path_flight_data_csv, delimiter = ",")

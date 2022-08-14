@@ -26,18 +26,21 @@ locale.setlocale(locale.LC_TIME,"")
 #%% script
 #import module import maths_for_map
 import maths_for_map
+import os
+import math
 
 
 #%%
 
 # =============================================================================
- registration_ac = "F-HFHP"
+registration_ac = "F-RAFA"
 # =============================================================================
 
 
-#%% define path
+#%% path
 path = os.getcwd()
-path_avions = path + r"/input/avions.csv"
+path_avions = path + "/input/avions.csv"
+print (path_avions)
 
 path_ac = path + "/output/" + registration_ac + "/" + registration_ac + "_flight_data_all.csv"
 

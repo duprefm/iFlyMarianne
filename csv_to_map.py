@@ -31,7 +31,7 @@ import maths_for_map
 #%%
 path = os.getcwd()
 
-path_ac_png = os.path.join(path, r"input/airplane_jet.png")
+path_ac_png = os.path.join(path, "input", "airplane_jet.png")
 
 
 #%%

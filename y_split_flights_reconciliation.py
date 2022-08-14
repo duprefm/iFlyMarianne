@@ -26,15 +26,17 @@ import csv_to_map
 
 #%%
 # =============================================================================
-registration_ac = "F-HMBY"
+registration_ac = "F-RAFA"
 # =============================================================================
 
 #%% define path
 path = os.getcwd()
-path_avions = os.path.join(path, r"input\avions.csv")
+path_avions = os.path.join(path, "input", "avions.csv")
 
 path_flight_data = os.path.join(path, "output", registration_ac)
+print (path_flight_data)
 path_flight_data_csv = os.path.join(path_flight_data, f"{registration_ac}_flight_data_all.csv")
+print (path_flight_data_csv)
 
 
 #%% load generic data
@@ -105,10 +107,7 @@ for flight in df_vols_to_be_merged.itertuples():
 df_new_flights_empty = pd.DataFrame(columns = df_ac_data.columns)
 
 #récupération des infos pour tous les nouveaux vols de cet avion
-df_new_flights_only = get_new_df_data.fct_get_all_data(df_new_flights_empty,
-                                                       list_new_csv,
-                                                       registration_ac,
-                                                       icao24_ac, co2_ac)
+df_new_flights_only = get_new_df_data.fct_get_all_data(df_new_flights_empty, list_new_csv, registration_ac, icao24_ac, co2_ac)
 
 
 #plot map grâce à plotly avec les infos requises pour le titre de l'image

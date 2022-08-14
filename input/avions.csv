@@ -1,8 +1,8 @@
 ﻿registration,icao24,proprio,date_acquisition,model,type,msn,co2_kg_per_hour,last_check
-F-RAFC,3b76a5,Escadron de transport 60,2011-11-12,Dassault Falcon 2000EX,Falcon-2000x,231,3120,2022-08-14
-F-RAFD,3b76a4,Escadron de transport 60,2012-04-06,Dassault Falcon 2000LX,Falcon-2000x,237,3120,2022-08-14
 F-RAFA,3b770d,Escadron de transport 60,2009-03-07,Dassault Falcon-7X,Falcon-7X,68,3120,2022-08-14
 F-RAFB,3b76b3,Escadron de transport 60,2010-07-04,Dassault Falcon-7X,Falcon-7X,86,3120,2022-08-14
+F-RAFC,3b76a5,Escadron de transport 60,2011-11-12,Dassault Falcon 2000EX,Falcon-2000x,231,3120,2022-08-14
+F-RAFD,3b76a4,Escadron de transport 60,2012-04-06,Dassault Falcon 2000LX,Falcon-2000x,237,3120,2022-08-14
+F-RARF,3b76ae,Escadron de transport 60,2019-04-11,Airbus A320,A330-200,240,3120,2022-08-14
 F-RAFP,3b77e5,Escadron de transport 60,1987-12-11,Dassault Falcon 900,Falcon-9x,2,2600,2022-08-14
 F-RAFQ,3b77e4,Escadron de transport 60,1985-01-12,Dassault Falcon 900,Falcon-9x,4,2600,2022-08-14
-F-RARF,3b76ae,Escadron de transport 60,2019-04-11,Airbus A320,A330-200,240,3120,2022-08-14

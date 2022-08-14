@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2"><Folder ><Folder ><name >F-RAFP track</name>
+<Placemark ><name >F-RAFP</name>
+<Style ><LineStyle ><color >ff1c1ae3</color>
+<width >4</width>
+</LineStyle>
+<IconStyle ><Icon ><href >http://maps.google.com/mapfiles/kml/shapes/airports.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<gx:Track ><extrude >0</extrude>
+<when >2022-07-11T12:00:44.800Z</when>
+<when >2022-07-11T12:00:44.800Z</when>
+<when >2022-07-11T12:02:04.600Z</when>
+<when >2022-07-11T12:03:20.500Z</when>
+<when >2022-07-11T12:04:35.800Z</when>
+<when >2022-07-11T12:05:55.500Z</when>
+<when >2022-07-11T12:07:15.300Z</when>
+<when >2022-07-11T12:08:30.600Z</when>
+<when >2022-07-11T12:09:50.400Z</when>
+<when >2022-07-11T12:11:05.700Z</when>
+<when >2022-07-11T12:12:24.800Z</when>
+<when >2022-07-11T12:13:39.900Z</when>
+<when >2022-07-11T12:14:56.000Z</when>
+<when >2022-07-11T12:15:16.200Z</when>
+<when >2022-07-11T12:15:33.600Z</when>
+<when >2022-07-11T12:15:48.300Z</when>
+<when >2022-07-11T12:16:11.900Z</when>
+<when >2022-07-11T12:16:57.200Z</when>
+<when >2022-07-11T12:17:15.900Z</when>
+<when >2022-07-11T12:18:35.600Z</when>
+<when >2022-07-11T12:19:51.000Z</when>
+<when >2022-07-11T12:21:05.700Z</when>
+<when >2022-07-11T12:22:21.100Z</when>
+<when >2022-07-11T12:23:36.400Z</when>
+<when >2022-07-11T12:24:51.800Z</when>
+<when >2022-07-11T12:26:11.600Z</when>
+<when >2022-07-11T12:27:31.300Z</when>
+<when >2022-07-11T12:28:51.000Z</when>
+<when >2022-07-11T12:30:10.700Z</when>
+<when >2022-07-11T12:31:26.600Z</when>
+<when >2022-07-11T12:32:46.300Z</when>
+<when >2022-07-11T12:34:02.800Z</when>
+<when >2022-07-11T12:35:18.100Z</when>
+<when >2022-07-11T12:36:33.500Z</when>
+<when >2022-07-11T12:37:53.300Z</when>
+<when >2022-07-11T12:39:08.500Z</when>
+<when >2022-07-11T12:40:24.300Z</when>
+<when >2022-07-11T12:41:29.300Z</when>
+<when >2022-07-11T12:41:29.300Z</when>
+<gx:coord >14.286217 50.097656 0</gx:coord>
+<gx:coord >14.286217 50.097656 0</gx:coord>
+<gx:coord >14.28622 50.097656 0</gx:coord>
+<gx:coord >14.286217 50.097656 0</gx:coord>
+<gx:coord >14.28622 50.097656 0</gx:coord>
+<gx:coord >14.286217 50.097668 0</gx:coord>
+<gx:coord >14.286217 50.097668 0</gx:coord>
+<gx:coord >14.286217 50.097656 0</gx:coord>
+<gx:coord >14.286217 50.097668 0</gx:coord>
+<gx:coord >14.28622 50.097656 0</gx:coord>
+<gx:coord >14.28622 50.097656 0</gx:coord>
+<gx:coord >14.286217 50.097656 0</gx:coord>
+<gx:coord >14.28622 50.097656 0</gx:coord>
+<gx:coord >14.28622 50.097656 0</gx:coord>
+<gx:coord >14.286217 50.097656 0</gx:coord>
+<gx:coord >14.286217 50.097656 0</gx:coord>
+<gx:coord >14.286217 50.097656 0</gx:coord>
+<gx:coord >14.28622 50.097668 0</gx:coord>
+<gx:coord >14.28622 50.097656 0</gx:coord>
+<gx:coord >14.28622 50.097668 0</gx:coord>
+<gx:coord >14.286235 50.097668 0</gx:coord>
+<gx:coord >14.286217 50.097656 0</gx:coord>
+<gx:coord >14.286217 50.097656 0</gx:coord>
+<gx:coord >14.286217 50.097656 0</gx:coord>
+<gx:coord >14.28622 50.097656 0</gx:coord>
+<gx:coord >14.28622 50.097668 0</gx:coord>
+<gx:coord >14.286217 50.097668 0</gx:coord>
+<gx:coord >14.28622 50.097668 0</gx:coord>
+<gx:coord >14.286235 50.097656 0</gx:coord>
+<gx:coord >14.28622 50.097668 0</gx:coord>
+<gx:coord >14.286235 50.097668 0</gx:coord>
+<gx:coord >14.286217 50.097668 0</gx:coord>
+<gx:coord >14.28622 50.097656 0</gx:coord>
+<gx:coord >14.286235 50.097656 0</gx:coord>
+<gx:coord >14.28622 50.097656 0</gx:coord>
+<gx:coord >14.28622 50.097656 0</gx:coord>
+<gx:coord >14.28622 50.097656 0</gx:coord>
+<gx:coord >14.286217 50.097656 0</gx:coord>
+<gx:coord >14.286217 50.097656 0</gx:coord>
+</gx:Track>
+</Placemark>
+</Folder>
+</Folder>
+</kml>

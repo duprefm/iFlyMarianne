@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2"><Folder ><Folder ><name >F-RARF track</name>
+<Placemark ><name >F-RARF</name>
+<Style ><LineStyle ><color >ff1c1ae3</color>
+<width >4</width>
+</LineStyle>
+<IconStyle ><Icon ><href >http://maps.google.com/mapfiles/kml/shapes/airports.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<gx:Track ><altitudeMode >absolute</altitudeMode>
+<extrude >1</extrude>
+<when >2022-07-13T00:00:34.400Z</when>
+<when >2022-07-13T00:00:34.400Z</when>
+<when >2022-07-13T00:00:54.400Z</when>
+<when >2022-07-13T00:01:12.800Z</when>
+<when >2022-07-13T00:01:32.000Z</when>
+<when >2022-07-13T00:01:51.800Z</when>
+<when >2022-07-13T00:02:08.700Z</when>
+<when >2022-07-13T00:02:21.500Z</when>
+<when >2022-07-13T00:02:36.500Z</when>
+<when >2022-07-13T00:02:55.900Z</when>
+<when >2022-07-13T00:03:15.800Z</when>
+<when >2022-07-13T00:03:34.400Z</when>
+<when >2022-07-13T00:03:54.200Z</when>
+<when >2022-07-13T00:04:06.100Z</when>
+<when >2022-07-13T00:04:25.900Z</when>
+<when >2022-07-13T00:04:42.700Z</when>
+<when >2022-07-13T00:05:02.200Z</when>
+<when >2022-07-13T00:05:21.900Z</when>
+<when >2022-07-13T00:05:41.900Z</when>
+<when >2022-07-13T00:06:01.800Z</when>
+<when >2022-07-13T00:06:21.400Z</when>
+<when >2022-07-13T00:06:41.300Z</when>
+<when >2022-07-13T00:06:42.300Z</when>
+<when >2022-07-13T00:07:13.300Z</when>
+<when >2022-07-13T00:07:24.800Z</when>
+<when >2022-07-13T00:07:59.000Z</when>
+<when >2022-07-13T00:08:16.100Z</when>
+<when >2022-07-13T00:08:48.700Z</when>
+<when >2022-07-13T00:08:54.500Z</when>
+<when >2022-07-13T00:09:19.900Z</when>
+<when >2022-07-13T00:09:33.600Z</when>
+<when >2022-07-13T00:09:37.000Z</when>
+<when >2022-07-13T00:11:48.400Z</when>
+<when >2022-07-13T00:11:55.700Z</when>
+<when >2022-07-13T00:12:35.800Z</when>
+<when >2022-07-13T00:12:41.300Z</when>
+<when >2022-07-13T00:13:24.200Z</when>
+<when >2022-07-13T00:13:39.800Z</when>
+<when >2022-07-13T01:42:08.400Z</when>
+<when >2022-07-13T03:49:53.900Z</when>
+<when >2022-07-13T03:49:53.900Z</when>
+<gx:coord >3.839254 36.398683 12497</gx:coord>
+<gx:coord >3.839254 36.398683 12497</gx:coord>
+<gx:coord >3.854427 36.355362 12497</gx:coord>
+<gx:coord >3.868473 36.315354 12497</gx:coord>
+<gx:coord >3.882751 36.274567 12497</gx:coord>
+<gx:coord >3.897634 36.231979 12497</gx:coord>
+<gx:coord >3.910198 36.195855 12497</gx:coord>
+<gx:coord >3.919723 36.168528 12497</gx:coord>
+<gx:coord >3.930826 36.136687 12497</gx:coord>
+<gx:coord >3.945085 36.095814 12497</gx:coord>
+<gx:coord >3.959987 36.052986 12497</gx:coord>
+<gx:coord >3.973603 36.013696 12497</gx:coord>
+<gx:coord >3.988438 35.970978 12497</gx:coord>
+<gx:coord >3.997095 35.946009 12497</gx:coord>
+<gx:coord >4.011529 35.904438 12497</gx:coord>
+<gx:coord >4.023972 35.868347 12497</gx:coord>
+<gx:coord >4.038105 35.827469 12497</gx:coord>
+<gx:coord >4.052669 35.785264 12497</gx:coord>
+<gx:coord >4.067045 35.743693 12497</gx:coord>
+<gx:coord >4.081596 35.701377 12497</gx:coord>
+<gx:coord >4.09584 35.659927 12497</gx:coord>
+<gx:coord >4.110348 35.617769 12497</gx:coord>
+<gx:coord >4.111176 35.615341 12497</gx:coord>
+<gx:coord >4.13384 35.549337 12497</gx:coord>
+<gx:coord >4.142138 35.52499 12497</gx:coord>
+<gx:coord >4.166974 35.452555 12497</gx:coord>
+<gx:coord >4.179597 35.416617 12497</gx:coord>
+<gx:coord >4.210569 35.349349 12497</gx:coord>
+<gx:coord >4.217464 35.337059 12497</gx:coord>
+<gx:coord >4.248848 35.287674 12497</gx:coord>
+<gx:coord >4.268646 35.260941 12497</gx:coord>
+<gx:coord >4.273097 35.255313 12497</gx:coord>
+<gx:coord >4.476299 35.013009 12497</gx:coord>
+<gx:coord >4.487743 34.999416 12497</gx:coord>
+<gx:coord >4.549141 34.92591 12497</gx:coord>
+<gx:coord >4.55714 34.916382 12497</gx:coord>
+<gx:coord >4.623282 34.837006 12497</gx:coord>
+<gx:coord >4.646544 34.809082 12497</gx:coord>
+<gx:coord >9.471931 24.259357 12495</gx:coord>
+<gx:coord >13.114758 8.676624 12251</gx:coord>
+<gx:coord >13.114758 8.676624 12251</gx:coord>
+</gx:Track>
+</Placemark>
+</Folder>
+</Folder>
+</kml>
