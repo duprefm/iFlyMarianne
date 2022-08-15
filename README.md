@@ -4,7 +4,19 @@
 Code du compte twitter [@iFlyMarianne](https://twitter.com/iFlyMarianne). <br>
 Suivi des apareil de l'Escadron de transport 60 en charge du transport des élus de la république, génération des trajectoires et calcul du CO2 émis en utilisant les données de [adsbexchange.com](https://globe.adsbexchange.com/).
 
-Code comments and README.md are in French. I may translate everything in English, pending requests ;)
+# Mes sources 
+* https://flottepresidentielle.com/
+* https://www.planelogger.com/Aircraft/Search
+* https://alliknowaviation.com/2019/12/14/fuel-consumption-aircraft/
+
+Je me base sur les chiffres suivants pour les estimations de rejets de CO2 des aéronefs.
+1 gal = 3.79 kg
+Les émissions de CO2 provenant du fuel d'aviation sont environ de 3.15 grames par grames de fuel.
+* Un Falcon 7X consomme en moyenne 318 Gallons de fuel par heure.
+* Un Falcon 2000 consomme en moyenne 245 Gallons de fuel par heure.
+* Un Falcon 900 consomme en moyenne 302 Gallons de fuel par heure.
+* Un Airbus A330-200 consomme en moyenne 5590 kilogrames de fuel par heure.
+
 
 ## Contexte du projet
 <p align="justify"> Bonjour ! Nos élus nous demandent la sobriété carbonne, je cherche a suivre leurs déplacements en avions qui pourraient être remplacés par des visios conférences. l'argent ainsi économisé pourrait permettre de lutter contre le dérèglement climatique, le CO2 non émis, contribuant a le freiner.
