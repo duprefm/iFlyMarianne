@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2"><Folder ><Folder ><name >F-ZBFS track</name>
+<Placemark ><name >F-ZBFS</name>
+<Style ><LineStyle ><color >ff1c1ae3</color>
+<width >4</width>
+</LineStyle>
+<IconStyle ><Icon ><href >http://maps.google.com/mapfiles/kml/shapes/airports.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<gx:Track ><altitudeMode >absolute</altitudeMode>
+<extrude >1</extrude>
+<when >2022-08-09T07:59:27.950Z</when>
+<when >2022-08-09T07:59:27.950Z</when>
+<when >2022-08-09T07:59:35.790Z</when>
+<when >2022-08-09T07:59:39.520Z</when>
+<when >2022-08-09T07:59:45.600Z</when>
+<when >2022-08-09T07:59:54.130Z</when>
+<when >2022-08-09T08:00:01.690Z</when>
+<when >2022-08-09T08:00:09.230Z</when>
+<when >2022-08-09T08:00:16.560Z</when>
+<when >2022-08-09T08:00:24.510Z</when>
+<when >2022-08-09T08:00:26.910Z</when>
+<when >2022-08-09T08:00:35.000Z</when>
+<when >2022-08-09T08:00:43.600Z</when>
+<when >2022-08-09T08:00:53.370Z</when>
+<when >2022-08-09T08:00:59.700Z</when>
+<when >2022-08-09T08:01:07.150Z</when>
+<when >2022-08-09T08:01:15.180Z</when>
+<when >2022-08-09T08:01:23.090Z</when>
+<when >2022-08-09T08:01:29.770Z</when>
+<when >2022-08-09T08:01:36.390Z</when>
+<when >2022-08-09T08:01:45.180Z</when>
+<when >2022-08-09T08:01:54.050Z</when>
+<when >2022-08-09T08:02:01.190Z</when>
+<when >2022-08-09T08:02:05.740Z</when>
+<when >2022-08-09T08:02:13.850Z</when>
+<when >2022-08-09T08:02:23.780Z</when>
+<when >2022-08-09T08:02:33.590Z</when>
+<when >2022-08-09T08:02:40.880Z</when>
+<when >2022-08-09T08:02:49.580Z</when>
+<when >2022-08-09T08:02:55.110Z</when>
+<when >2022-08-09T08:03:05.280Z</when>
+<when >2022-08-09T08:03:13.510Z</when>
+<when >2022-08-09T08:03:22.710Z</when>
+<when >2022-08-09T08:03:27.820Z</when>
+<when >2022-08-09T08:03:27.820Z</when>
+<gx:coord >-0.691217 44.854058 259</gx:coord>
+<gx:coord >-0.691217 44.854058 259</gx:coord>
+<gx:coord >-0.692144 44.859692 282</gx:coord>
+<gx:coord >-0.691274 44.862739 305</gx:coord>
+<gx:coord >-0.690293 44.86577 328</gx:coord>
+<gx:coord >-0.693893 44.871809 351</gx:coord>
+<gx:coord >-0.693568 44.876795 366</gx:coord>
+<gx:coord >-0.69273 44.880539 373</gx:coord>
+<gx:coord >-0.692833 44.886787 389</gx:coord>
+<gx:coord >-0.693212 44.886026 389</gx:coord>
+<gx:coord >-0.693787 44.88803 389</gx:coord>
+<gx:coord >-0.692384 44.900409 381</gx:coord>
+<gx:coord >-0.690912 44.906778 373</gx:coord>
+<gx:coord >-0.689177 44.914118 373</gx:coord>
+<gx:coord >-0.686119 44.91672 366</gx:coord>
+<gx:coord >-0.685156 44.923089 358</gx:coord>
+<gx:coord >-0.680956 44.926606 366</gx:coord>
+<gx:coord >-0.680103 44.935571 358</gx:coord>
+<gx:coord >-0.677727 44.939774 343</gx:coord>
+<gx:coord >-0.673662 44.942469 335</gx:coord>
+<gx:coord >-0.670201 44.950019 335</gx:coord>
+<gx:coord >-0.666126 44.956239 328</gx:coord>
+<gx:coord >-0.66211 44.958437 320</gx:coord>
+<gx:coord >-0.661017 44.965004 312</gx:coord>
+<gx:coord >-0.657085 44.969316 305</gx:coord>
+<gx:coord >-0.651943 44.975397 282</gx:coord>
+<gx:coord >-0.646489 44.979403 267</gx:coord>
+<gx:coord >-0.642713 44.986275 259</gx:coord>
+<gx:coord >-0.637305 44.992748 251</gx:coord>
+<gx:coord >-0.636117 44.994357 236</gx:coord>
+<gx:coord >-0.630966 45.005639 213</gx:coord>
+<gx:coord >-0.623745 45.004684 198</gx:coord>
+<gx:coord >-0.619821 45.010412 175</gx:coord>
+<gx:coord >-0.614978 45.014454 152</gx:coord>
+<gx:coord >-0.614978 45.014454 152</gx:coord>
+</gx:Track>
+</Placemark>
+</Folder>
+</Folder>
+</kml>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2"><Folder ><Folder ><name >F-ZBFS track</name>
+<Placemark ><name >F-ZBFS</name>
+<Style ><LineStyle ><color >ff1c1ae3</color>
+<width >4</width>
+</LineStyle>
+<IconStyle ><Icon ><href >http://maps.google.com/mapfiles/kml/shapes/airports.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<gx:Track ><altitudeMode >absolute</altitudeMode>
+<extrude >1</extrude>
+<when >2022-08-05T12:22:12.270Z</when>
+<when >2022-08-05T12:22:12.270Z</when>
+<when >2022-08-05T12:22:21.000Z</when>
+<when >2022-08-05T12:22:29.750Z</when>
+<when >2022-08-05T12:22:37.280Z</when>
+<when >2022-08-05T12:22:45.310Z</when>
+<when >2022-08-05T12:22:48.810Z</when>
+<when >2022-08-05T12:22:56.510Z</when>
+<when >2022-08-05T12:23:04.210Z</when>
+<when >2022-08-05T12:23:12.890Z</when>
+<when >2022-08-05T12:23:20.930Z</when>
+<when >2022-08-05T12:23:26.640Z</when>
+<when >2022-08-05T12:23:36.160Z</when>
+<when >2022-08-05T12:23:44.990Z</when>
+<when >2022-08-05T12:23:48.190Z</when>
+<when >2022-08-05T12:23:57.460Z</when>
+<when >2022-08-05T12:24:06.700Z</when>
+<when >2022-08-05T12:24:10.640Z</when>
+<when >2022-08-05T12:24:37.540Z</when>
+<when >2022-08-05T12:24:44.580Z</when>
+<when >2022-08-05T12:24:51.150Z</when>
+<when >2022-08-05T12:24:59.980Z</when>
+<when >2022-08-05T12:25:02.500Z</when>
+<when >2022-08-05T12:25:02.500Z</when>
+<gx:coord >5.526618 43.41254 1829</gx:coord>
+<gx:coord >5.526618 43.41254 1829</gx:coord>
+<gx:coord >5.534946 43.407922 1836</gx:coord>
+<gx:coord >5.543256 43.401721 1836</gx:coord>
+<gx:coord >5.549508 43.397416 1829</gx:coord>
+<gx:coord >5.558799 43.392601 1829</gx:coord>
+<gx:coord >5.561602 43.390524 1836</gx:coord>
+<gx:coord >5.569171 43.385648 1821</gx:coord>
+<gx:coord >5.576389 43.381137 1829</gx:coord>
+<gx:coord >5.585738 43.376737 1829</gx:coord>
+<gx:coord >5.594205 43.372537 1829</gx:coord>
+<gx:coord >5.600889 43.369763 1836</gx:coord>
+<gx:coord >5.610709 43.364654 1829</gx:coord>
+<gx:coord >5.620411 43.359561 1821</gx:coord>
+<gx:coord >5.622911 43.357601 1814</gx:coord>
+<gx:coord >5.633491 43.352821 1798</gx:coord>
+<gx:coord >5.642409 43.347809 1806</gx:coord>
+<gx:coord >5.647742 43.345097 1814</gx:coord>
+<gx:coord >5.67412 43.330561 1852</gx:coord>
+<gx:coord >5.679209 43.327329 1844</gx:coord>
+<gx:coord >5.6837 43.325016 1829</gx:coord>
+<gx:coord >5.697841 43.319681 1821</gx:coord>
+<gx:coord >5.697187 43.319281 1829</gx:coord>
+<gx:coord >5.697187 43.319281 1829</gx:coord>
+</gx:Track>
+</Placemark>
+</Folder>
+</Folder>
+</kml>

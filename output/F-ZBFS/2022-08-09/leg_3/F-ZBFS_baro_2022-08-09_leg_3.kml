@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2"><Folder ><Folder ><name >F-ZBFS track</name>
+<Placemark ><name >F-ZBFS</name>
+<Style ><LineStyle ><color >ff1c1ae3</color>
+<width >4</width>
+</LineStyle>
+<IconStyle ><Icon ><href >http://maps.google.com/mapfiles/kml/shapes/airports.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<gx:Track ><altitudeMode >absolute</altitudeMode>
+<extrude >1</extrude>
+<when >2022-08-09T09:37:22.360Z</when>
+<when >2022-08-09T09:37:22.360Z</when>
+<when >2022-08-09T09:37:52.100Z</when>
+<when >2022-08-09T09:38:03.470Z</when>
+<when >2022-08-09T09:38:27.290Z</when>
+<when >2022-08-09T09:38:37.210Z</when>
+<when >2022-08-09T09:38:46.910Z</when>
+<when >2022-08-09T09:38:55.290Z</when>
+<when >2022-08-09T09:39:03.870Z</when>
+<when >2022-08-09T09:39:08.420Z</when>
+<when >2022-08-09T09:39:15.070Z</when>
+<when >2022-08-09T09:39:22.370Z</when>
+<when >2022-08-09T09:39:25.550Z</when>
+<when >2022-08-09T09:39:30.070Z</when>
+<when >2022-08-09T09:39:37.380Z</when>
+<when >2022-08-09T09:39:44.370Z</when>
+<when >2022-08-09T09:39:50.450Z</when>
+<when >2022-08-09T09:39:51.850Z</when>
+<when >2022-08-09T09:40:00.500Z</when>
+<when >2022-08-09T09:40:08.350Z</when>
+<when >2022-08-09T09:40:08.350Z</when>
+<gx:coord >-0.735718 44.919933 373</gx:coord>
+<gx:coord >-0.735718 44.919933 373</gx:coord>
+<gx:coord >-0.755257 44.898439 358</gx:coord>
+<gx:coord >-0.758532 44.890366 351</gx:coord>
+<gx:coord >-0.761549 44.871119 373</gx:coord>
+<gx:coord >-0.762196 44.862741 381</gx:coord>
+<gx:coord >-0.762044 44.855169 373</gx:coord>
+<gx:coord >-0.762807 44.848987 358</gx:coord>
+<gx:coord >-0.761139 44.842393 328</gx:coord>
+<gx:coord >-0.761406 44.838554 297</gx:coord>
+<gx:coord >-0.759553 44.835626 259</gx:coord>
+<gx:coord >-0.754921 44.830563 244</gx:coord>
+<gx:coord >-0.754181 44.829077 229</gx:coord>
+<gx:coord >-0.753314 44.826501 206</gx:coord>
+<gx:coord >-0.750829 44.823777 183</gx:coord>
+<gx:coord >-0.746793 44.819968 152</gx:coord>
+<gx:coord >-0.749292 44.820583 122</gx:coord>
+<gx:coord >-0.743908 44.818183 122</gx:coord>
+<gx:coord >-0.739245 44.815362 99</gx:coord>
+<gx:coord >-0.72803 44.813473 53</gx:coord>
+<gx:coord >-0.72803 44.813473 53</gx:coord>
+</gx:Track>
+</Placemark>
+</Folder>
+</Folder>
+</kml>

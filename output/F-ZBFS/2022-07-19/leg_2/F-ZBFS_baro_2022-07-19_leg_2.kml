@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2"><Folder ><Folder ><name >F-ZBFS track</name>
+<Placemark ><name >F-ZBFS</name>
+<Style ><LineStyle ><color >ff1c1ae3</color>
+<width >4</width>
+</LineStyle>
+<IconStyle ><Icon ><href >http://maps.google.com/mapfiles/kml/shapes/airports.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<gx:Track ><altitudeMode >absolute</altitudeMode>
+<extrude >1</extrude>
+<when >2022-07-19T14:00:53.200Z</when>
+<when >2022-07-19T14:00:53.200Z</when>
+<when >2022-07-19T14:01:10.200Z</when>
+<when >2022-07-19T14:01:15.200Z</when>
+<when >2022-07-19T14:01:20.800Z</when>
+<when >2022-07-19T14:01:25.200Z</when>
+<when >2022-07-19T14:01:26.700Z</when>
+<when >2022-07-19T14:01:39.500Z</when>
+<when >2022-07-19T14:01:53.700Z</when>
+<when >2022-07-19T14:01:54.800Z</when>
+<when >2022-07-19T14:01:57.200Z</when>
+<when >2022-07-19T14:02:02.100Z</when>
+<when >2022-07-19T14:02:10.900Z</when>
+<when >2022-07-19T14:02:16.600Z</when>
+<when >2022-07-19T14:02:23.500Z</when>
+<when >2022-07-19T14:02:26.000Z</when>
+<when >2022-07-19T14:02:30.500Z</when>
+<when >2022-07-19T14:02:33.600Z</when>
+<when >2022-07-19T14:02:38.100Z</when>
+<when >2022-07-19T14:02:44.100Z</when>
+<when >2022-07-19T14:02:48.100Z</when>
+<when >2022-07-19T14:03:00.200Z</when>
+<when >2022-07-19T14:03:03.300Z</when>
+<when >2022-07-19T14:03:17.000Z</when>
+<when >2022-07-19T14:03:18.700Z</when>
+<when >2022-07-19T14:03:20.300Z</when>
+<when >2022-07-19T14:03:30.700Z</when>
+<when >2022-07-19T14:03:33.100Z</when>
+<when >2022-07-19T14:03:35.700Z</when>
+<when >2022-07-19T14:03:40.500Z</when>
+<when >2022-07-19T14:03:48.200Z</when>
+<when >2022-07-19T14:03:53.100Z</when>
+<when >2022-07-19T14:03:57.400Z</when>
+<when >2022-07-19T14:03:59.900Z</when>
+<when >2022-07-19T14:04:03.500Z</when>
+<when >2022-07-19T14:04:13.500Z</when>
+<when >2022-07-19T14:04:17.700Z</when>
+<when >2022-07-19T14:04:21.800Z</when>
+<when >2022-07-19T14:04:23.200Z</when>
+<when >2022-07-19T14:04:23.200Z</when>
+<gx:coord >-0.718908 44.808395 297</gx:coord>
+<gx:coord >-0.718908 44.808395 297</gx:coord>
+<gx:coord >-0.699207 44.8029 312</gx:coord>
+<gx:coord >-0.694166 44.801375 328</gx:coord>
+<gx:coord >-0.687011 44.798605 335</gx:coord>
+<gx:coord >-0.682115 44.79752 343</gx:coord>
+<gx:coord >-0.682112 44.797595 328</gx:coord>
+<gx:coord >-0.66754 44.793457 312</gx:coord>
+<gx:coord >-0.652007 44.788263 312</gx:coord>
+<gx:coord >-0.648259 44.787156 312</gx:coord>
+<gx:coord >-0.646255 44.785836 312</gx:coord>
+<gx:coord >-0.641255 44.785791 328</gx:coord>
+<gx:coord >-0.630775 44.781624 351</gx:coord>
+<gx:coord >-0.624237 44.780602 351</gx:coord>
+<gx:coord >-0.61522 44.777504 351</gx:coord>
+<gx:coord >-0.614471 44.777815 351</gx:coord>
+<gx:coord >-0.608907 44.776702 358</gx:coord>
+<gx:coord >-0.605484 44.77444 358</gx:coord>
+<gx:coord >-0.600756 44.773879 351</gx:coord>
+<gx:coord >-0.594128 44.772041 358</gx:coord>
+<gx:coord >-0.589255 44.770636 351</gx:coord>
+<gx:coord >-0.57529 44.765839 351</gx:coord>
+<gx:coord >-0.571247 44.764218 373</gx:coord>
+<gx:coord >-0.557037 44.760674 373</gx:coord>
+<gx:coord >-0.553739 44.75992 366</gx:coord>
+<gx:coord >-0.554352 44.760616 373</gx:coord>
+<gx:coord >-0.542399 44.754981 351</gx:coord>
+<gx:coord >-0.537804 44.752928 351</gx:coord>
+<gx:coord >-0.535732 44.752701 351</gx:coord>
+<gx:coord >-0.530957 44.750319 335</gx:coord>
+<gx:coord >-0.521866 44.747682 305</gx:coord>
+<gx:coord >-0.516682 44.745893 297</gx:coord>
+<gx:coord >-0.512222 44.74399 290</gx:coord>
+<gx:coord >-0.509216 44.743274 282</gx:coord>
+<gx:coord >-0.503879 44.738388 267</gx:coord>
+<gx:coord >-0.49493 44.738576 221</gx:coord>
+<gx:coord >-0.490412 44.736216 229</gx:coord>
+<gx:coord >-0.486779 44.736814 251</gx:coord>
+<gx:coord >-0.485804 44.73642 236</gx:coord>
+<gx:coord >-0.485804 44.73642 236</gx:coord>
+</gx:Track>
+</Placemark>
+</Folder>
+</Folder>
+</kml>

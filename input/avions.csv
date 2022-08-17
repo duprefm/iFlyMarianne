@@ -1,8 +1,9 @@
 ﻿registration,icao24,proprio,date_acquisition,model,type,msn,co2_kg_per_hour,last_check
-F-RAFA,3b770d,Escadron de transport 60,2009-03-07,Dassault Falcon-7X,Falcon-7X,68,3796,2022-08-16
-F-RAFB,3b76b3,Escadron de transport 60,2010-07-04,Dassault Falcon-7X,Falcon-7X,86,3796,2022-08-16
-F-RAFC,3b76a5,Escadron de transport 60,2011-11-12,Dassault Falcon 2000EX,Falcon-2000x,231,2925,2022-08-16
-F-RAFD,3b76a4,Escadron de transport 60,2012-04-06,Dassault Falcon 2000LX,Falcon-2000x,237,2925,2022-08-16
-F-RARF,3b76ae,Escadron de transport 60,2019-04-11,Airbus A330,A330-200,240,17609,2022-08-16
-F-RAFP,3b77e5,Escadron de transport 60,1987-12-11,Dassault Falcon 900,Falcon-9x,2,3606,2022-08-16
-F-RAFQ,3b77e4,Escadron de transport 60,1985-01-12,Dassault Falcon 900,Falcon-9x,4,3606,2022-08-16
+F-RAFA,3b770d,Escadron de transport 60,2009-03-07,Dassault Falcon-7X,Falcon-7X,68.0,3796,2022-08-17
+F-RAFB,3b76b3,Escadron de transport 60,2010-07-04,Dassault Falcon-7X,Falcon-7X,86.0,3796,2022-08-17
+F-RAFC,3b76a5,Escadron de transport 60,2011-11-12,Dassault Falcon 2000EX,Falcon-2000x,231.0,2925,2022-08-17
+F-RAFD,3b76a4,Escadron de transport 60,2012-04-06,Dassault Falcon 2000LX,Falcon-2000x,237.0,2925,2022-08-17
+F-RARF,3b76ae,Escadron de transport 60,2019-04-11,Airbus A330,A330-200,240.0,17609,2022-08-17
+F-RAFP,3b77e5,Escadron de transport 60,1987-12-11,Dassault Falcon 900,Falcon-9x,2.0,3606,2022-08-17
+F-RAFQ,3b77e4,Escadron de transport 60,1985-01-12,Dassault Falcon 900,Falcon-9x,4.0,3606,2022-08-17
+F-ZBFS,3b7b6e,SECURITE CIVILE,1993-12-06,CANADAIR,415-6B11,32.0,1,2022-08-17

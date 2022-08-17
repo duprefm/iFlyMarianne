@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2"><Folder ><Folder ><name >F-ZBFS track</name>
+<Placemark ><name >F-ZBFS</name>
+<Style ><LineStyle ><color >ff1c1ae3</color>
+<width >4</width>
+</LineStyle>
+<IconStyle ><Icon ><href >http://maps.google.com/mapfiles/kml/shapes/airports.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<gx:Track ><altitudeMode >absolute</altitudeMode>
+<extrude >1</extrude>
+<when >2022-08-10T08:28:29.860Z</when>
+<when >2022-08-10T08:28:29.860Z</when>
+<when >2022-08-10T08:41:46.240Z</when>
+<when >2022-08-10T08:42:15.430Z</when>
+<when >2022-08-10T08:42:25.450Z</when>
+<when >2022-08-10T09:09:40.740Z</when>
+<when >2022-08-10T09:09:47.850Z</when>
+<when >2022-08-10T09:10:17.000Z</when>
+<when >2022-08-10T09:10:22.060Z</when>
+<when >2022-08-10T09:10:45.180Z</when>
+<when >2022-08-10T09:10:53.050Z</when>
+<when >2022-08-10T09:10:55.260Z</when>
+<when >2022-08-10T09:11:08.730Z</when>
+<when >2022-08-10T09:11:08.730Z</when>
+<gx:coord >-0.492262 44.684299 244</gx:coord>
+<gx:coord >-0.492262 44.684299 244</gx:coord>
+<gx:coord >-0.529015 44.650781 274</gx:coord>
+<gx:coord >-0.500745 44.689473 236</gx:coord>
+<gx:coord >-0.484161 44.69066 221</gx:coord>
+<gx:coord >-0.51339 44.655383 290</gx:coord>
+<gx:coord >-0.495962 44.609244 290</gx:coord>
+<gx:coord >-0.494978 44.680772 267</gx:coord>
+<gx:coord >-0.492991 44.683371 259</gx:coord>
+<gx:coord >-0.478734 44.700648 213</gx:coord>
+<gx:coord >-0.474263 44.705159 191</gx:coord>
+<gx:coord >-0.475525 44.708004 175</gx:coord>
+<gx:coord >-0.468085 44.71793 160</gx:coord>
+<gx:coord >-0.468085 44.71793 160</gx:coord>
+</gx:Track>
+</Placemark>
+</Folder>
+</Folder>
+</kml>

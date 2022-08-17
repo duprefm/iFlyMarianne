@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2"><Folder ><Folder ><name >F-ZBFS track</name>
+<Placemark ><name >F-ZBFS</name>
+<Style ><LineStyle ><color >ff1c1ae3</color>
+<width >4</width>
+</LineStyle>
+<IconStyle ><Icon ><href >http://maps.google.com/mapfiles/kml/shapes/airports.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<gx:Track ><altitudeMode >absolute</altitudeMode>
+<extrude >1</extrude>
+<when >2022-08-10T13:07:46.520Z</when>
+<when >2022-08-10T13:07:46.520Z</when>
+<when >2022-08-10T13:08:26.650Z</when>
+<when >2022-08-10T13:13:40.490Z</when>
+<when >2022-08-10T13:18:26.320Z</when>
+<when >2022-08-10T13:18:26.320Z</when>
+<gx:coord >-0.496661 44.690943 259</gx:coord>
+<gx:coord >-0.496661 44.690943 259</gx:coord>
+<gx:coord >-0.474377 44.715814 152</gx:coord>
+<gx:coord >-0.577373 44.56646 373</gx:coord>
+<gx:coord >-0.550688 44.610306 351</gx:coord>
+<gx:coord >-0.550688 44.610306 351</gx:coord>
+</gx:Track>
+</Placemark>
+</Folder>
+</Folder>
+</kml>
