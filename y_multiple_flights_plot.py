@@ -28,12 +28,18 @@ locale.setlocale(locale.LC_TIME,"")
 import maths_for_map
 import os
 import math
+import sys
+
+print(sys.argv)
 
 
 #%%
 
 # =============================================================================
-registration_ac = "F-RAFA"
+#registration_ac = "F-ZBFS"
+registration_ac = ""
+registration_ac = sys.argv[1]
+print (registration_ac)
 # =============================================================================
 
 
@@ -43,6 +49,7 @@ path_avions = path + "/input/avions.csv"
 print (path_avions)
 
 path_ac = path + "/output/" + registration_ac + "/" + registration_ac + "_flight_data_all.csv"
+print (path_ac)
 
 
 #%% load generic data

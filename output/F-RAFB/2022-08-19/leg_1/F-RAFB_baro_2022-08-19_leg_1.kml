@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2"><Folder ><Folder ><name >F-RAFB track</name>
+<Placemark ><name >F-RAFB</name>
+<Style ><LineStyle ><color >ff1c1ae3</color>
+<width >4</width>
+</LineStyle>
+<IconStyle ><Icon ><href >http://maps.google.com/mapfiles/kml/shapes/airports.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<gx:Track ><altitudeMode >absolute</altitudeMode>
+<extrude >1</extrude>
+<when >2022-08-19T08:18:21.955Z</when>
+<when >2022-08-19T08:18:21.955Z</when>
+<when >2022-08-19T08:18:26.955Z</when>
+<when >2022-08-19T08:18:30.955Z</when>
+<when >2022-08-19T08:18:34.665Z</when>
+<when >2022-08-19T08:18:36.655Z</when>
+<when >2022-08-19T08:18:40.854Z</when>
+<when >2022-08-19T08:18:43.854Z</when>
+<when >2022-08-19T08:18:49.054Z</when>
+<when >2022-08-19T08:18:53.245Z</when>
+<when >2022-08-19T08:18:58.905Z</when>
+<when >2022-08-19T08:19:03.455Z</when>
+<when >2022-08-19T08:19:07.455Z</when>
+<when >2022-08-19T08:19:19.705Z</when>
+<when >2022-08-19T08:19:38.955Z</when>
+<when >2022-08-19T08:19:40.094Z</when>
+<when >2022-08-19T08:19:40.103Z</when>
+<when >2022-08-19T08:19:40.103Z</when>
+<gx:coord >8.569336 42.812668 975</gx:coord>
+<gx:coord >8.569336 42.812668 975</gx:coord>
+<gx:coord >8.577118 42.814838 960</gx:coord>
+<gx:coord >8.583657 42.815676 953</gx:coord>
+<gx:coord >8.589608 42.815909 953</gx:coord>
+<gx:coord >8.592943 42.815816 953</gx:coord>
+<gx:coord >8.600006 42.815117 953</gx:coord>
+<gx:coord >8.604722 42.814362 953</gx:coord>
+<gx:coord >8.612366 42.81279 953</gx:coord>
+<gx:coord >8.618583 42.811432 953</gx:coord>
+<gx:coord >8.626695 42.809647 945</gx:coord>
+<gx:coord >8.633274 42.808274 945</gx:coord>
+<gx:coord >8.638831 42.80711 945</gx:coord>
+<gx:coord >8.655416 42.803787 945</gx:coord>
+<gx:coord >8.681307 42.798591 953</gx:coord>
+<gx:coord >8.682632 42.79834 953</gx:coord>
+<gx:coord >8.682632 42.79834 953</gx:coord>
+<gx:coord >8.682632 42.79834 953</gx:coord>
+</gx:Track>
+</Placemark>
+</Folder>
+</Folder>
+</kml>

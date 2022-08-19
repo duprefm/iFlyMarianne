@@ -24,6 +24,9 @@ import get_new_df_data
 import csv_to_map
 import post_flight_data_consolidation
 
+#imat = ""
+#import y_multiple_flights_plot
+
 
 #%% define path
 # path = os.getcwd()
@@ -153,6 +156,12 @@ for aircraft_row in df_avion.itertuples():
                 print()
                 print(f"--- No new flights for A/C {registration_ac} ---")
                 print(f"--- {registration_ac} done ! ---")
+                imat = registration_ac
+                print(imat)
+                #y_multiple_flights_plot(imat)
+                print()
+                print(f"--- {str(len(list_new_flights_ac))} FIN VOLS MULTIPLES {registration_ac} ---")
+                print()
 
         else:
             # malgré tout, on met à jour la date de dernier check.
